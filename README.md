@@ -1,2 +1,2 @@
 # itop-kernel
-study sound in itop platform with samsung 4412
+study 4412 android4.4.4 kernel 
